@@ -11,13 +11,13 @@ The dashboard transforms raw data into meaningful visualizations that help stake
 
 ## Objectives
 
-Analyze student enrollment across different courses.
+* Analyze student enrollment across different courses.
 
-Identify the most popular courses based on student participation.
+* Identify the most popular courses based on student participation.
 
-Present data in an interactive and easy-to-interpret format.
+* Present data in an interactive and easy-to-interpret format.
 
-Support data-driven decision-making for academic planning.
+* Support data-driven decision-making for academic planning.
 
 ## Tools Used
 
