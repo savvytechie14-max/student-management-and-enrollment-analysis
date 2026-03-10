@@ -1,2 +1,3 @@
+<img width="885" height="496" alt="dashboard1" src="https://github.com/user-attachments/assets/e682c5c6-4160-43bc-9dff-5073cf08004a" />
 # student-management-and-enrollment-analysis
 Power BI was used to analyse student enrollment and performance......
