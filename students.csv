@@ -1,0 +1,121 @@
+student_id,student_name,gender,age,city,course_id,enrollment_date,completion_status
+S001,Student_1,Male,21,Abuja,C003,2024-04-10,Ongoing
+S002,Student_2,Male,30,Abuja,C003,2024-02-04,Completed
+S003,Student_3,Male,18,Abuja,C004,2024-01-26,Completed
+S004,Student_4,Male,18,Lagos,C001,2024-04-13,Ongoing
+S005,Student_5,Male,26,Ibadan,C003,2024-04-22,Completed
+S006,Student_6,Female,23,Lagos,C005,2024-03-01,Completed
+S007,Student_7,Female,28,Lagos,C002,2024-01-30,Ongoing
+S008,Student_8,Female,26,Benin,C004,2024-01-10,Ongoing
+S009,Student_9,Female,18,Benin,C003,2024-04-30,Completed
+S010,Student_10,Male,19,Ibadan,C005,2024-04-20,Ongoing
+S011,Student_11,Male,22,Benin,C005,2024-02-11,Ongoing
+S012,Student_12,Female,25,Abuja,C005,2024-02-16,Completed
+S013,Student_13,Female,19,Abuja,C003,2024-03-27,Ongoing
+S014,Student_14,Female,29,Ibadan,C005,2024-02-21,Ongoing
+S015,Student_15,Male,22,Lagos,C005,2024-04-16,Completed
+S016,Student_16,Male,20,Abuja,C003,2024-03-19,Completed
+S017,Student_17,Female,19,Ibadan,C001,2024-01-05,Completed
+S018,Student_18,Male,29,Abuja,C004,2024-02-24,Completed
+S019,Student_19,Female,23,Ibadan,C005,2024-04-23,Ongoing
+S020,Student_20,Male,23,Ibadan,C002,2024-04-03,Completed
+S021,Student_21,Female,20,Abuja,C004,2024-01-16,Ongoing
+S022,Student_22,Male,20,Abuja,C002,2024-02-28,Completed
+S023,Student_23,Male,22,Port Harcourt,C005,2024-03-01,Ongoing
+S024,Student_24,Male,24,Port Harcourt,C003,2024-04-24,Ongoing
+S025,Student_25,Male,30,Benin,C005,2024-03-10,Ongoing
+S026,Student_26,Female,29,Ibadan,C004,2024-02-02,Ongoing
+S027,Student_27,Female,30,Port Harcourt,C003,2024-03-22,Completed
+S028,Student_28,Male,24,Lagos,C004,2024-03-26,Completed
+S029,Student_29,Female,22,Benin,C002,2024-04-12,Completed
+S030,Student_30,Male,19,Ibadan,C003,2024-03-18,Completed
+S031,Student_31,Female,30,Benin,C002,2024-01-30,Ongoing
+S032,Student_32,Male,23,Benin,C005,2024-03-21,Completed
+S033,Student_33,Male,20,Abuja,C002,2024-04-15,Completed
+S034,Student_34,Male,25,Abuja,C004,2024-01-04,Ongoing
+S035,Student_35,Male,21,Port Harcourt,C003,2024-04-26,Completed
+S036,Student_36,Male,19,Benin,C001,2024-02-21,Completed
+S037,Student_37,Female,23,Benin,C001,2024-04-30,Completed
+S038,Student_38,Male,23,Abuja,C002,2024-02-19,Ongoing
+S039,Student_39,Male,26,Ibadan,C001,2024-02-16,Ongoing
+S040,Student_40,Female,28,Ibadan,C002,2024-01-06,Ongoing
+S041,Student_41,Female,25,Benin,C002,2024-03-17,Ongoing
+S042,Student_42,Male,24,Port Harcourt,C004,2024-04-19,Completed
+S043,Student_43,Male,21,Benin,C001,2024-02-19,Ongoing
+S044,Student_44,Female,29,Abuja,C003,2024-01-11,Ongoing
+S045,Student_45,Female,30,Benin,C003,2024-02-23,Ongoing
+S046,Student_46,Female,18,Ibadan,C001,2024-02-09,Ongoing
+S047,Student_47,Male,25,Ibadan,C005,2024-01-30,Ongoing
+S048,Student_48,Male,19,Lagos,C002,2024-03-23,Completed
+S049,Student_49,Male,20,Lagos,C004,2024-02-22,Completed
+S050,Student_50,Male,22,Port Harcourt,C002,2024-01-21,Ongoing
+S051,Student_51,Female,27,Abuja,C005,2024-01-14,Ongoing
+S052,Student_52,Male,20,Port Harcourt,C002,2024-01-04,Completed
+S053,Student_53,Female,27,Port Harcourt,C005,2024-01-10,Ongoing
+S054,Student_54,Female,18,Ibadan,C001,2024-04-18,Ongoing
+S055,Student_55,Male,18,Port Harcourt,C003,2024-02-19,Ongoing
+S056,Student_56,Male,30,Port Harcourt,C005,2024-04-11,Ongoing
+S057,Student_57,Male,18,Port Harcourt,C005,2024-04-24,Completed
+S058,Student_58,Male,22,Ibadan,C002,2024-04-28,Completed
+S059,Student_59,Female,21,Benin,C001,2024-01-30,Completed
+S060,Student_60,Male,19,Benin,C003,2024-02-12,Ongoing
+S061,Student_61,Female,30,Lagos,C005,2024-02-06,Ongoing
+S062,Student_62,Male,18,Port Harcourt,C002,2024-01-16,Ongoing
+S063,Student_63,Female,19,Lagos,C003,2024-03-23,Completed
+S064,Student_64,Male,26,Ibadan,C005,2024-02-22,Ongoing
+S065,Student_65,Female,19,Lagos,C004,2024-02-04,Ongoing
+S066,Student_66,Female,24,Abuja,C002,2024-03-17,Completed
+S067,Student_67,Male,20,Port Harcourt,C004,2024-03-09,Completed
+S068,Student_68,Female,30,Port Harcourt,C005,2024-01-06,Completed
+S069,Student_69,Female,27,Benin,C004,2024-04-17,Ongoing
+S070,Student_70,Male,20,Port Harcourt,C003,2024-01-27,Completed
+S071,Student_71,Male,19,Port Harcourt,C004,2024-01-19,Ongoing
+S072,Student_72,Male,24,Abuja,C001,2024-01-22,Ongoing
+S073,Student_73,Female,26,Lagos,C001,2024-02-16,Completed
+S074,Student_74,Female,24,Abuja,C001,2024-01-11,Ongoing
+S075,Student_75,Male,22,Benin,C005,2024-02-23,Ongoing
+S076,Student_76,Male,22,Ibadan,C002,2024-03-25,Ongoing
+S077,Student_77,Female,29,Port Harcourt,C002,2024-01-28,Ongoing
+S078,Student_78,Male,24,Abuja,C002,2024-04-09,Completed
+S079,Student_79,Male,19,Ibadan,C004,2024-04-20,Ongoing
+S080,Student_80,Female,18,Lagos,C005,2024-03-16,Ongoing
+S081,Student_81,Female,23,Lagos,C005,2024-02-05,Completed
+S082,Student_82,Female,27,Port Harcourt,C001,2024-03-05,Ongoing
+S083,Student_83,Male,22,Abuja,C003,2024-04-23,Completed
+S084,Student_84,Female,28,Benin,C005,2024-03-29,Completed
+S085,Student_85,Male,21,Lagos,C005,2024-01-19,Ongoing
+S086,Student_86,Female,23,Abuja,C005,2024-04-01,Completed
+S087,Student_87,Male,25,Lagos,C003,2024-02-14,Completed
+S088,Student_88,Female,21,Abuja,C004,2024-01-25,Completed
+S089,Student_89,Male,28,Lagos,C004,2024-01-31,Completed
+S090,Student_90,Male,27,Port Harcourt,C001,2024-03-16,Ongoing
+S091,Student_91,Female,22,Abuja,C002,2024-01-16,Ongoing
+S092,Student_92,Male,24,Ibadan,C004,2024-04-06,Completed
+S093,Student_93,Female,22,Port Harcourt,C003,2024-01-25,Completed
+S094,Student_94,Male,22,Lagos,C004,2024-03-25,Completed
+S095,Student_95,Male,28,Lagos,C001,2024-04-29,Ongoing
+S096,Student_96,Male,23,Abuja,C005,2024-04-07,Completed
+S097,Student_97,Female,18,Port Harcourt,C002,2024-02-13,Ongoing
+S098,Student_98,Male,22,Ibadan,C003,2024-02-09,Ongoing
+S099,Student_99,Female,23,Port Harcourt,C003,2024-02-07,Completed
+S100,Student_100,Male,20,Port Harcourt,C004,2024-04-04,Ongoing
+S101,Student_101,Female,18,Lagos,C004,2024-02-11,Ongoing
+S102,Student_102,Male,28,Ibadan,C005,2024-02-07,Completed
+S103,Student_103,Female,25,Lagos,C004,2024-02-06,Ongoing
+S104,Student_104,Male,30,Port Harcourt,C004,2024-01-11,Ongoing
+S105,Student_105,Male,30,Ibadan,C002,2024-01-29,Completed
+S106,Student_106,Female,30,Lagos,C003,2024-03-08,Ongoing
+S107,Student_107,Female,30,Abuja,C001,2024-03-18,Completed
+S108,Student_108,Male,22,Benin,C003,2024-04-14,Ongoing
+S109,Student_109,Female,20,Lagos,C001,2024-04-13,Ongoing
+S110,Student_110,Female,23,Abuja,C004,2024-03-09,Ongoing
+S111,Student_111,Male,19,Ibadan,C004,2024-02-12,Ongoing
+S112,Student_112,Male,21,Port Harcourt,C001,2024-03-19,Completed
+S113,Student_113,Female,25,Ibadan,C003,2024-03-12,Completed
+S114,Student_114,Female,26,Benin,C005,2024-01-24,Completed
+S115,Student_115,Female,20,Abuja,C002,2024-02-18,Ongoing
+S116,Student_116,Male,21,Benin,C002,2024-03-22,Completed
+S117,Student_117,Male,24,Port Harcourt,C002,2024-01-05,Completed
+S118,Student_118,Female,22,Port Harcourt,C004,2024-02-05,Completed
+S119,Student_119,Male,28,Lagos,C003,2024-04-02,Ongoing
+S120,Student_120,Male,23,Ibadan,C005,2024-02-12,Ongoing
